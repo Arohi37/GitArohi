@@ -1,2 +1,0 @@
-# GitArohi
-Git-Github Assignment
